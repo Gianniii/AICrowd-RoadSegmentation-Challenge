@@ -1,0 +1,2 @@
+In this folder there is the dataset from AIcrowd.
+This file is here to ensure that git keeps track of this directory.

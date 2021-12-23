@@ -1,0 +1,11 @@
+data/sample_submission
+data/test_set_images.zip
+data/training.zip
+data/training/
+__pycache__/
+project_road_segmentation/__pycache__/ 
+.ipynb_checkpoints/
+predictions_training/
+model_checkpoints/
+!data/empty.txt
+*.csv

@@ -1,2 +1,2 @@
 In this folder there is the dataset from AIcrowd.
-The data can be downloaded from the link provided in the README
+The traininig data can be downloaded from the link provided in the README

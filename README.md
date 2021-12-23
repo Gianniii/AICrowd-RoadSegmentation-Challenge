@@ -1,4 +1,4 @@
-# Machine Learning Project 2: Team Salt!
+# Machine Learning Project 2
 ## Road Segmentation Challenge
 
 Authors: Gianni Lodetti, Luca Bracone, Omid Karimi

@@ -3,7 +3,7 @@
 
 Authors: Gianni Lodetti, Luca Bracone, Omid Karimi
 
-In this project, the goal is to create a machine learning model for the classification of pixels in an image. More precisely, we perform road segmentation on a set of aerial images to classify road and background pixels. Some more information and dataset available on [AICrowd](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation), and in our **Project_report**.
+In this project, the goal was to create a machine learning model for the classification of pixels in an image. More precisely, we perform road segmentation on a set of aerial images to classify road and background pixels. Some more information and dataset available on [AICrowd](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation), and you can find a summary of methods used and our conclusions in our [**Project_report**](https://github.com/Gianniii/AICrowd-RoadSegmentation-Challenge/blob/main/Project_report.pdf).
 
 ## Installation
 Here are the dependencies needed to run the program with Python:

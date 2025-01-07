@@ -1,4 +1,7 @@
 # Machine Learning Project 2
+
+[**Project_report**](https://github.com/Gianniii/AICrowd-RoadSegmentation-Challenge/blob/main/Project_report.pdf).
+
 ## Road Segmentation Challenge
 
 Authors: Gianni Lodetti, Luca Bracone, Omid Karimi

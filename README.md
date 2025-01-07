@@ -1,4 +1,4 @@
-# Machine Learning Project 2
+# Machine Learning Project - Road Segmentation Challenge
 
 [**Project_report**](https://github.com/Gianniii/AICrowd-RoadSegmentation-Challenge/blob/main/Project_report.pdf).
 
